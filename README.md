@@ -1,4 +1,4 @@
-# Road Accident Dashboard
+# **Road Accident Dashboard**
 ## Objective:
 
 The purpose of this project is to create a **dashboard** that provides insights into **road accidents** in the UK, including detailed data on accident types, casualties, and the impact of different conditions such as weather and road surface. This dashboard allows users to monitor trends, compare current and previous year data, and filter accident statistics based on different parameters such as severity, vehicle type, and weather conditions.
