@@ -1,4 +1,6 @@
 # **Road Accident Dashboard**
+[Link for Dashbord](https://public.tableau.com/app/profile/sofwan.kaji/viz/RoadAccidentDashboard_17395262919620/Dashboard12)
+
 ## Objective:
 
 The purpose of this project is to create a **dashboard** that provides insights into **road accidents** in the UK, including detailed data on accident types, casualties, and the impact of different conditions such as weather and road surface. This dashboard allows users to monitor trends, compare current and previous year data, and filter accident statistics based on different parameters such as severity, vehicle type, and weather conditions.
@@ -33,3 +35,4 @@ The purpose of this project is to create a **dashboard** that provides insights 
 - The dashboard helps **government agencies, insurance companies**, and **road safety organizations** analyze accident data efficiently.
 - It allows for targeted interventions, such as increasing awareness in accident-prone areas or during severe weather conditions.
 - The dashboard provides **data-driven insights** for improving **road safety policies** and prioritizing infrastructure improvements in high-risk zones.
+
