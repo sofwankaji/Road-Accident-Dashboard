@@ -1,5 +1,5 @@
 # **Road Accident Dashboard**
-[Link for Dashbord](https://public.tableau.com/app/profile/sofwan.kaji/viz/RoadAccidentDashboard_17395262919620/Dashboard12)
+[Link for Dashboard](https://public.tableau.com/app/profile/sofwan.kaji/viz/RoadAccidentDashboard_17395262919620/Dashboard12)
 
 ## Objective:
 
