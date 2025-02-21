@@ -1,6 +1,6 @@
 # **Road Accident Dashboard**
 
-![image](/Dashboard.png)
+![image](/DB.png)
 
 
 
